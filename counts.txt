@@ -1,0 +1,17 @@
+Sample 6 SAM
+Mapped: 20186317
+Unmapped: 736289
+
+Sample 15 SAM
+Mapped: 14436377
+Unmapped: 400397
+
+Sample 6 htseq-count Mapped
+rev: 8608716 --> 82.29%
+str: 394300 --> 3.77%
+total: 10461303
+
+Sample 15 htseq-count Mapped
+rev: 6165511 --> 83.11%
+str: 276477 --> 3.73%
+total: 7418387
